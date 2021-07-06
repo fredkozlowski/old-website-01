@@ -1,0 +1,13 @@
+body, html {
+    margin-left:2%;
+    margin-right:2%;
+    margin-bottom:2%;
+    margin-top:2%;
+    width:96%;
+    height:96%;
+    font-family: 'Helvetica', 'Arial', sans-serif;
+}
+
+p {
+  line-height: 2 ;
+} 
